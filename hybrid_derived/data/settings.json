@@ -1,0 +1,7 @@
+{
+  "click_interval": 2000,
+  "stop_condition": 0,
+  "stop_value": 7,
+  "anti_detection": false,
+  "anti_detection_max_offset": 1
+}
